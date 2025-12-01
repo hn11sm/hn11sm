@@ -77,4 +77,12 @@ Brief description of your amazing project.
 
 </div>
 
+---
+
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=hn11sm&color=blue&style=flat-square)
+
 
