@@ -1,77 +1,69 @@
+
+
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3366FF&center=true&vCenter=true&width=435&lines=Hi,+I'm+Seong-min+👋;AI+Researcher+🤖;Open+Source+Contributor+🚀" alt="Typing SVG" />
-  
-  <h3> 데이터에서 가치를 찾아내는 AI 엔지니어, 이성민입니. </h3>
-  
-  <p>
-    자연어 처리(NLP)와 LLM 최적화에 관심이 많습니다.<br>
-    새로운 기술을 배우고 기록하는 것을 좋아합니다.
-  </p>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=hn11sm&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff)
+
 </div>
 
-<br/>
 
-### 🛠 Tech Stack
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</div>
+## About Me
 
-<br/>
+I'm a Full Stack Developer passionate about building web applications.
 
-### 📊 GitHub Analytics
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=danlee-dev&theme=dark&hide_border=true&background=0D1117&ring=79C0FF&currStreakLabel=79C0FF">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=danlee-dev&theme=default&hide_border=true" alt="Streak Stats">
-  </picture>
-  
-  <br/><br/>
+- Currently working on exciting projects
+- Learning new technologies
+- Ask me about web development
+- How to reach me: your.email@example.com
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=danlee-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117">
-    <img src="https://github-readme-stats.vercel.app/api?username=danlee-dev&show_icons=true&theme=default&hide_border=true" alt="Github Stats">
-  </picture>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=danlee-dev&layout=compact&theme=dark&hide_border=true&bg_color=0D1117">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danlee-dev&layout=compact&theme=default&hide_border=true" alt="Top Langs">
-  </picture>
-</div>
 
-<br/>
 
-### 🚀 Featured Projects
+## Tech Stack
 
-| 🤖 **Ko-LLM-FineTuning** | 👁️ **Sign-Language-CV** |
-| :---: | :---: |
-| <img src="https://via.placeholder.com/300x150/000000/FFFFFF?text=LLM+Model" width="100%"> | <img src="https://via.placeholder.com/300x150/000000/FFFFFF?text=Computer+Vision" width="100%"> |
-| 한국어 특화 LLM 파인튜닝 프로젝트<br>RAG 시스템 구축 및 성능 최적화 | 수화 번역을 위한 컴퓨터 비전 모델<br>YOLO v8 기반 실시간 탐지 |
-| [👉 View Repo](#) | [👉 View Repo](#) |
+### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-<br/>
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
-### 📬 Contact Me
-<div align="center">
-  <a href="mailto:mason@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Blog-Velog-20c997?style=flat-square&logo=velog&logoColor=white" alt="Blog"/>
-  </a>
-</div>
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 
-<br/>
-<div align="center">
-  <i>Let's connect and build something amazing together!</i>
-</div>
+
+
+## Awards & Achievements
+
+- First Place - University Hackathon 2024
+- Best Project Award - Tech Conference 2023
+- Open Source Contributor of the Month
+
+
+
+## Featured Projects
+
+### Project Name
+Brief description of your amazing project.
+
+<sub><a href="https://github.com/hn11sm/your-repo"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/View_Repo-white?style=flat-square&logo=github&logoColor=black"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" height="18"/></picture></a></sub>
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hn11sm&theme=github-compact&hide_border=true&bg_color=0d1117&color=79c0ff&line=58a6ff&point=58a6ff">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hn11sm&theme=github-compact&hide_border=true">
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=hn11sm&theme=github-compact&hide_border=true">
+</picture>
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-stats-nu-beryl.vercel.app/api?username=hn11sm&show_icons=true&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-stats-nu-beryl.vercel.app/api?username=hn11sm&show_icons=true&theme=default">
+  <img alt="GitHub Stats" src="https://readme-stats-nu-beryl.vercel.app/api?username=hn11sm&show_icons=true&theme=default">
+</picture>
+
