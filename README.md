@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3366FF&center=true&vCenter=true&width=435&lines=Hi,+I'm+Seong-min+👋;AI+Researcher+🤖;Open+Source+Contributor+🚀" alt="Typing SVG" />
   
-  <h3> 데이터에서 가치를 찾아내는 AI 엔지니어, 이성민입니다. </h3>
+  <h3> 데이터에서 가치를 찾아내는 AI 엔지니어, 이성민입니. </h3>
   
   <p>
     자연어 처리(NLP)와 LLM 최적화에 관심이 많습니다.<br>
