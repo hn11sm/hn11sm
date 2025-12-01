@@ -2,4 +2,4 @@
 
 ## Heading 2
 
-> Quote test
+> Quote text
