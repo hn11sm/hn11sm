@@ -68,19 +68,24 @@ Brief description of your amazing project.
 </picture>
 
 
-<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-gules-three.vercel.app/?user=hn11sm&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=79C0FF&fire=79C0FF&currStreakLabel=79C0FF">
-  <img alt="Streak stats" src="https://github-readme-streak-stats-gules-three.vercel.app/?user=hn11sm&theme=default&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-gules-three.vercel.app/?user=hn11sm&theme=default&hide_border=true">
+  <img alt="Streak Stats" src="https://github-readme-streak-stats-gules-three.vercel.app/?user=hn11sm&theme=default&hide_border=true">
 </picture>
 
-</div>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-stats-nu-beryl.vercel.app/api/top-langs/?username=hn11sm&layout=compact&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-stats-nu-beryl.vercel.app/api/top-langs/?username=hn11sm&layout=compact&theme=default">
+  <img alt="Top Languages" src="https://readme-stats-nu-beryl.vercel.app/api/top-langs/?username=hn11sm&layout=compact&theme=default">
+</picture>
+
+
 
 ---
-
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hn11sm&color=blue&style=flat-square)
