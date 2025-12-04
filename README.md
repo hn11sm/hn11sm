@@ -44,12 +44,15 @@ I'm a Full Stack Developer passionate about building web applications.
 
 
 
+
+
 ## Featured Projects
 
-### Project Name
-Brief description of your amazing project.
+| Project | Description | Stats |
+|---------|-------------|-------|
+| [Korea-University_2024](https://github.com/hn11sm/Korea-University_2024) | No description | ![Stars](https://img.shields.io/github/stars/hn11sm/Korea-University_2024?style=flat-square) ![Language](https://img.shields.io/github/languages/top/hn11sm/Korea-University_2024?style=flat-square) |
 
-<sub><a href="https://github.com/hn11sm/your-repo"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/View_Repo-white?style=flat-square&logo=github&logoColor=black"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" height="18"/></picture></a></sub>
+
 
 
 
